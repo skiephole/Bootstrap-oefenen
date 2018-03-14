@@ -1,0 +1,14 @@
+﻿
+.contact{
+    border: 2px solid grey;
+}
+.contactwrapper {
+    width:100%;
+    height: auto;
+    display: block;
+}
+.contactwrapper img{
+    width:200px;
+    height: auto;
+    margin: 0 auto;
+}
